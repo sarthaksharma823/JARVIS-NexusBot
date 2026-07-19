@@ -24,9 +24,8 @@ A modular, highly customizable AI chatbot and voice assistant built with Python.
    ```bash
    git clone [https://github.com/sarthaksharma823/JARVIS-NexusBot.git](https://github.com/sarthaksharma823/JARVIS-NexusBot.git) 
 
-## Project Structure
--- 'NexusBot_Text_v1.py' - Clean, no-dependency text chatbot template. Easily Customizable by editing the 'brain' dictionary.
--- 'requirements.txt' - List of required python Libraries for future upgrades.
+## Required Libraries
+-- Pyttsx4 --
 
 ## How to run 
 1. Clone the repository.
