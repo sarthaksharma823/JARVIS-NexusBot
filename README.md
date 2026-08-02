@@ -18,7 +18,7 @@ A modular, highly customizable AI chatbot and voice assistant built with Python.
 
 ---
 
-## 🛠️ How to Installation & Setup
+## 🛠️ Installation & Setup
 
 1. **Clone this repository:**
    ```bash
