@@ -27,7 +27,35 @@ A modular, highly customizable AI chatbot and voice assistant built with Python.
 ## Required Libraries
 -- Pyttsx4 --
 
-## How to run 
-1. Clone the repository.
+# 🎙️ Jarvis 2.0 - Fast & Smart Voice Assistant
+
+A responsive Python-based Desktop Voice Assistant designed to execute voice commands in real-time. **Jarvis 2.0** features optimized audio calibration, zero-delay speech recognition, and custom logic mapping to provide a seamless voice interaction experience.
+
+---
+
+## 🚀 What's New in v2.0?
+
+* **⚡ Fast Ambient Noise Calibration:** Calibrates room noise once at startup instead of every loop iteration, drastically speeding up response times.
+* **🎙️ Robust Speech Recognition:** Uses `SpeechRecognition` (Google Speech API) with fine-tuned parameters (`energy_threshold` and `pause_threshold`) for precise voice capture.
+* **🔊 Text-to-Speech (TTS):** Integrated offline voice synthesis via `pyttsx3`.
+* **🛡️ Crash-Proof Error Handling:** Multi-layer `try-except` blocks ensure the assistant doesn't freeze or crash during silence or internet drops.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Python 3.x
+* **Speech Recognition:** `SpeechRecognition`
+* **Speech Synthesis:** `pyttsx4`
+* **Audio Handling:** `PyAudio`
+
+---
+
+## ⚙️ How to Install & Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/Jarvis-2.0.git](https://github.com/YOUR_USERNAME/Jarvis-2.0.git)
+   cd Jarvis-2.0
 2. Run 'python NexusBot_Text_v1.0.py' in your terminal.
 3. Run 'python NexusBot_Text_v1.5.py' in your terminal.
