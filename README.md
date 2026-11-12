@@ -55,8 +55,8 @@ A responsive Python-based Desktop Voice Assistant designed to execute voice comm
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Jarvis-2.0.git](https://github.com/YOUR_USERNAME/Jarvis-2.0.git)
-   cd Jarvis-2.0
+   git clone https://github.com/sarthaksharma823/JARVIS-NexusBot.git
+   cd JARVIS-NexusBot
 2. Run 'python NexusBot_Text_v1.0.py' in your terminal.
 3. Run 'python NexusBot_Text_v1.5.py' in your terminal.
 4. Run 'python NexusBot_Text_v2.0.py' in your terminal.
